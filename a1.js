@@ -6,7 +6,7 @@ let persona = {
     edad: 23
 }
 
-console.log("Mi nombre es" + persona.nombre + " " + persona.apellido + " " + "y mi edad es" + persona.edad + " " + "años.")
+console.log("Mi nombre es " + persona.nombre + " " + persona.apellido + " " + "y mi edad es " + persona.edad + " " + "años.")
 let nombre = "Emiliano";
 let apellido = "Rivarola";
 let edad = 22;
